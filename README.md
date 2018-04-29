@@ -15,12 +15,15 @@ CoffeeScript is a little language that compiles into JavaScript.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/coffeescript-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/coffeescript-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/coffeescript-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/coffeescript-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/coffeescript/badges/version.svg)](https://anaconda.org/conda-forge/coffeescript)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/coffeescript/badges/downloads.svg)](https://anaconda.org/conda-forge/coffeescript)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-coffeescript-green.svg)](https://anaconda.org/conda-forge/coffeescript) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/coffeescript.svg)](https://anaconda.org/conda-forge/coffeescript) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/coffeescript.svg)](https://anaconda.org/conda-forge/coffeescript) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/coffeescript.svg)](https://anaconda.org/conda-forge/coffeescript) |
 
 Installing coffeescript
 =======================
