@@ -1,6 +1,6 @@
 {% set name = "coffeescript" %}
-{% set version = "2.4.0" %}
-{% set sha256 = "bd61e6c2d7eb944fe60b0af2f6f6eb197d3c2cea685aab0cca832cf41107bd7f" %}
+{% set version = "2.4.1" %}
+{% set sha256 = "6a97c0c3eb4eb49aa58fe32702ee05fd0868672c14874c927abbfd1818551188" %}
 
 package:
   name: {{ name|lower }}
