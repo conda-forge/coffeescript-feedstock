@@ -37,8 +37,3 @@ about:
     CoffeeScript is a little language that compiles into JavaScript. 
   doc_url: http://coffeescript.org/
   dev_url: https://github.com/jashkenas/coffeescript
-  
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
